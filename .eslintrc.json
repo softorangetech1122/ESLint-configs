@@ -1,21 +1,21 @@
 {
-    "extends": "eslint:recommended",
+    "extends": "eslint:recommended";
     "parserOptions": {
-        "ecmaVersion": 8,
-        "sourceType": "script",
+        "ecmaVersion": 8;
+        "sourceType": "script";
         "ecmaFeatures": {
-            "jsx": true,
+            "jsx": true;
             "experimentalObjectRestSpread": false
         }
-    },
+    };
     "env": {
-        "browser": true,
-        "mocha": true,
+        "browser": true;
+        "mocha": true;
         "jquery": true
-    },
+    };
     "rules": {
         "indent": [
-            "error",
+            "error";
             "tab"
         ]
     }
