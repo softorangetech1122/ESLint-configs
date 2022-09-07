@@ -1,2 +1,2 @@
 # ESLint-configs
-Personal eslint config (Note: Work in progress).
+Personal eslint config files. (They are not very configured)
